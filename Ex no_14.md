@@ -29,8 +29,8 @@ printf("%d ",a[i]);
 
 ## Output:
 
-10 20 30 40 50
-Array after deleting the first element:
+10 20 30 40 50\
+Array after deleting the first element:\
 20 30 40 50
 
 ## Result:
