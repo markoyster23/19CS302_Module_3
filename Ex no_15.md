@@ -33,9 +33,9 @@ int main() {
 ```
 
 ## Output:
-Input: 5|
-23456|
-Output:
+Input: 5\
+23456\
+Output:\
 E3E5E
 
 
