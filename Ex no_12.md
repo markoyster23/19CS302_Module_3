@@ -33,7 +33,7 @@ return 0;
 ```
 
 ## Output:
-10/
+10\
 10 is not a prime number.
 
 
