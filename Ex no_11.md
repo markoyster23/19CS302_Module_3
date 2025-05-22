@@ -39,8 +39,8 @@ return 0;
 ```
 
 ## Output:
-10/n
-Binary: 1010
+10\
+Binary: 1010\
 The decimal number entered was: 10
 
 
