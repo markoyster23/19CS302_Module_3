@@ -39,7 +39,7 @@ return 0;
 ```
 
 ## Output:
-10
+10/n
 Binary: 1010
 The decimal number entered was: 10
 
